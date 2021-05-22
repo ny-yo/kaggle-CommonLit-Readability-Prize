@@ -1,1 +1,3 @@
 # kaggle-CommonLit-Readability-Prize
+このコンペはkernel onlyでマシンパワーに依存しないし、EDAもそれほどつらくなさそうなので、突破口として取り組む
+目標はソロブロンズ
